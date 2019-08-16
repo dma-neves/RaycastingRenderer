@@ -1,6 +1,6 @@
 # RaycastingRenderer
 
-**Description:** A simple "3D" renderer using the raycasting technique.Made in python
+**Description:** A simple "3D" renderer made in python using the raycasting technique
 
 **Requirements:** 
   1. Python >= 2 interpreter
